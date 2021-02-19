@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<div style="background-color: #D5D9F7;padding: 20px 100px">
+<div style="background-color: #D5D9F7;padding: 20px 20px">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;0,800;1,300;1,400;1,700;1,800&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@ Hi, I'm Jerico Navarro, A 20 years old self-taught Full Stack software developer
 I am also an PC enthusiast 🖥 and Gamer 🎮 . Aside from that I also love Filmmaking 🎬 and Photography 📷.
 </p>
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="750" height="500" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="450" height="300" />
 
 <ul style="color: black;font-family: 'Open Sans', sans-serif;font-size: 15px;font-weight: 300">
 <li><p>🔭 I’m currently working on Android, Data Science and Web Development</p></li>
@@ -121,5 +121,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <div align="left" style="display: flex;"> 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jericoxnavarro&show_icons=true&theme=monokai" alt="jericoxnavarro" />
 <p align="rigth"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jericoxnavarro&layout=compact&hide=html&theme=monokai" alt="jericoxnavarro" /></p>
-</p>
+</div>
 </div>
