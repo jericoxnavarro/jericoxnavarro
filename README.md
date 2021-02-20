@@ -1,14 +1,9 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<div style="background-color: #D5D9F7;padding: 20px 20px">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;0,800;1,300;1,400;1,700;1,800&display=swap" rel="stylesheet">
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jericoxnavarro.jericoxnavarro)
 
 <h1 align="center" style="color: #3C3D4E;font-family: 'Open Sans', sans-serif;font-size: 30px;font-weight: 800;">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝐖𝐨𝐫𝐥𝐝/&gt; !
+  Hello! I'm Jerico
 </h1>
 
 <br />
@@ -18,8 +13,6 @@ Hi, I'm Jerico Navarro, A 20 years old self-taught Full Stack software developer
 <p style="color: black;font-family: 'Open Sans', sans-serif;font-size: 18px;font-weight: 400">
 I am also an PC enthusiast 🖥 and Gamer 🎮 . Aside from that I also love Filmmaking 🎬 and Photography 📷.
 </p>
-
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="450" height="300" />
 
 <ul style="color: black;font-family: 'Open Sans', sans-serif;font-size: 15px;font-weight: 300">
 <li><p>🔭 I’m currently working on Android, Data Science and Web Development</p></li>
@@ -32,53 +25,59 @@ I am also an PC enthusiast 🖥 and Gamer 🎮 . Aside from that I also love Fil
 🔥 Languages and Tools
 </h2>
 
-<p align="left" style="margin-top: 30px;"> 
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-html5-plain-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-css3-plain-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-javascript-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-php-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-python-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-java-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-csharp-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-mysql-plain-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-postgresql-plain-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-mongodb-plain-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-firebase-plain colored"></i></code>
+<p align="left" > 
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/html.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/css.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/javascript.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/php.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/python.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/java.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/csharp.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/mysql.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/mongodb.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/postgresql.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/node-js.png" alt="languages" /></code>
 </p>
-<p align="left"> 
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-react-original colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-electron-original colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-sass-original colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-bootstrap-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-express-original-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-npm-original-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-webpack-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-yarn-plain-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-redux-original colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-nginx-original colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-apache-line-wordmark colored"></i></code>
+<p align="left" > 
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/react.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/electron.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/react-native.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/redux.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/sass.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/bootstrap.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/express.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/npm.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/yarn.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/webpack.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/firebase.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/nginx.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/apache.png" alt="languages" /></code>
 </p>
-<p align="left"> 
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-linux-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-ubuntu-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-apple-original colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-android-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-visualstudio-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-vim-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-bash-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-google-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-amazonwebservices-original colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-heroku-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-git-plain-wordmark colored"></i></code>
+
+<p align="left" > 
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/linux.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/ubuntu.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/windows.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/apple.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/android.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/visual-studio-code.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/vim.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/ssh.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/google.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/aws.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/iconfinder_89_Digital_Ocean_4519029.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/heroku.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/git.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/github.png" alt="languages" /></code>
 </p>
-<p style="margin-bottom: 30px" align="left"> 
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-github-original-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-ssh-original-wordmark colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-photoshop-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-xd-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-illustrator-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-premierepro-plain colored"></i></code>
-<code><i style="font-size:30px;background-color: white;padding: 5px;border-radius: 8px;margin: 5px" class="devicon-aftereffects-plain colored"></i></code>
+
+<p align="left" > 
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/photoshop.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/illustrator.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/xd.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/figma.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/adobe-premiere-pro.png" alt="languages" /></code>
+<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/adobe-after-effects.png" alt="languages" /></code>
 </p>
 
 <h2 style="color: #3C3D4E;font-family: 'Open Sans', sans-serif;font-size: 20px;font-weight: 700;margin-top: 20px">
@@ -121,5 +120,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <div align="left" style="display: flex;"> 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jericoxnavarro&show_icons=true&theme=monokai" alt="jericoxnavarro" />
 <p align="rigth"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jericoxnavarro&layout=compact&hide=html&theme=monokai" alt="jericoxnavarro" /></p>
-</div>
+</p>
 </div>
