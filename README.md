@@ -26,58 +26,58 @@ I am also an PC enthusiast 🖥 and Gamer 🎮 . Aside from that I also love Fil
 </h2>
 
 <p align="left" > 
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/html.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/css.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/javascript.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/php.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/python.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/java.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/csharp.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/mysql.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/mongodb.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/postgresql.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/node-js.png" alt="languages" /></code>
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/html.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/css.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/javascript.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/php.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/python.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/java.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/csharp.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/mysql.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/mongodb.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/postgresql.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/node-js.png" alt="languages" />
 </p>
 <p align="left" > 
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/react.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/electron.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/react-native.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/redux.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/sass.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/bootstrap.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/express.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/npm.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/yarn.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/webpack.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/firebase.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/nginx.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/apache.png" alt="languages" /></code>
-</p>
-
-<p align="left" > 
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/linux.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/ubuntu.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/windows.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/apple.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/android.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/visual-studio-code.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/vim.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/ssh.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/google.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/aws.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/iconfinder_89_Digital_Ocean_4519029.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/heroku.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/git.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/github.png" alt="languages" /></code>
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/react.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/electron.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/react-native.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/redux.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/sass.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/bootstrap.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/express.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/npm.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/yarn.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/webpack.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/firebase.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/nginx.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/apache.png" alt="languages" />
 </p>
 
 <p align="left" > 
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/photoshop.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/illustrator.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/xd.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/figma.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/adobe-premiere-pro.png" alt="languages" /></code>
-<code><img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/adobe-after-effects.png" alt="languages" /></code>
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/linux.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/ubuntu.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/windows.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/apple.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/android.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/visual-studio-code.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/vim.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/ssh.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/google.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/aws.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/iconfinder_89_Digital_Ocean_4519029.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/heroku.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/git.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/github.png" alt="languages" />
+</p>
+
+<p align="left" > 
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/photoshop.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/illustrator.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/xd.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/figma.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/adobe-premiere-pro.png" alt="languages" />
+<img width="40" height="40" padding="5" src="https://raw.githubusercontent.com/jericoxnavarro/jericoxnavarro/main/assets/adobe-after-effects.png" alt="languages" />
 </p>
 
 <h2 style="color: #3C3D4E;font-family: 'Open Sans', sans-serif;font-size: 20px;font-weight: 700;margin-top: 20px">
