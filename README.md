@@ -8,18 +8,8 @@
 
 <br />
 <p style="color: black;font-family: 'Open Sans', sans-serif;font-size: 18px;font-weight: 400">
-Hi, I'm Jerico Navarro, A 20 years old self-taught Full Stack software developer 🌈 and a freelance software engineer 👨🏻‍💻 from Philippines 🇵🇭. My passion for software lies with dreaming up ideas 🚀 and making them come true with elegant interfaces📱. I take great care in the experience 🤩, architecture 🤖, and code quality 💯 of the things I build 🛠.
+Hi, I'm Jerico Navarro, A 22 years old self-taught Full Stack software developer 🌈 and a freelance software engineer 👨🏻‍💻 from Philippines 🇵🇭. My passion for software lies with dreaming up ideas 🚀 and making them come true with elegant interfaces📱. I take great care in the experience 🤩, architecture 🤖, and code quality 💯 of the things I build 🛠.
 </p>
-<p style="color: black;font-family: 'Open Sans', sans-serif;font-size: 18px;font-weight: 400">
-I am also an PC enthusiast 🖥 and Gamer 🎮 . Aside from that I also love Filmmaking 🎬 and Photography 📷.
-</p>
-
-<ul style="color: black;font-family: 'Open Sans', sans-serif;font-size: 15px;font-weight: 300">
-<li><p>🔭 I’m currently working on Android, Data Science and Web Development</p></li>
-<li><p>🌱 I’m currently learning GraphQL, React Native, Web Development and DevOps</p></li>
-<li><p>👯 I’m looking to collaborate on Software Development</p></li>
-<li><p>🤔 I’m looking for help with Internships</p></li>
-</ul>
 
 <h2 style="color: #3C3D4E;font-family: 'Open Sans', sans-serif;font-size: 20px;font-weight: 700;margin-top: 20px">
 🔥 Languages and Tools
